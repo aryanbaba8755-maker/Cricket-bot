@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, ChatMemberHandler, Context
 # --- BOT CONFIGURATION ---
 BOT_TOKEN = "8920375012:AAGWu_3h3ZAEVFGVvg7XeVXk-4WNwGqdRk0"  # Yahan apna token dalein
 OWNER_ID = 2107169286
-RENDER_URL = "https://cricket-bot-1-79oq.onrender.com" 
+RENDER_URL = "https://cricket-bot-1-b4ft.onrender.com" 
 PORT = int(os.environ.get('PORT', 8000))
 
 # --- GLOBAL STATE VARIABLES ---
